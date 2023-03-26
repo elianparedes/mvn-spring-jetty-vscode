@@ -8,6 +8,7 @@
       "hostName": "localhost",
       "port": 8000,
       "preLaunchTask": "start-server-debug",
+      "postDebugTask": "stop-server"
     }
   ]
 }
